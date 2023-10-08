@@ -1,0 +1,504 @@
+ID,HP_Power_kW,Heated_Floor_Area,Building_Year,Cluster_Building_Age,Cluster_HP_Size,Cluster_Building_Area,Cluster_HP_Type
+PCLAoIG5RQIvrhKO1ZeY,12.0,207.0,1972.0,medium,big,medium,ground source
+WmMADGWWJ0wpryG30Mrg,2.9,262.2,2011.0,young,small,medium,air source
+fv0SKHJXQUgF_dZPZawx,,368.0,2003.0,young,unknown,big,ground source
+jItPLTBhBFIOntFQk2eD,,172.5,1992.0,young,unknown,small,ground source
+1vSbB9CGbKgFnhDZ3yRg,4.0,140.3,2007.0,young,small,small,air source
+xQncBOdxEWYdidiT1RE1,,224.25,2006.0,young,unknown,medium,air source
+VZBn6pfPqZcTGbnhjLVe,3.1,172.5,1924.0,medium,small,small,ground source
+28lXr2YvkWIz1gUGXOnP,1.0,207.0,1979.0,young,small,medium,ground source
+lEi4h68EbHwOf_D1_F,4.6,188.6,1981.0,young,medium,small,air source
+LAFx8mmhVvIX2DTsgHmi,,345.0,1982.0,young,unknown,big,air source
+tYio4yASa7AkMTjCjGIB,3.0,264.5,2007.0,young,small,medium,unknown
+PgGIbqABiX6lSsPf_HLl,8.3,224.25,2006.0,young,medium,medium,ground source
+0SPSfQIq_F2spSYR_Z4E,3.8,287.5,1740.0,old,small,big,air source
+xIzWQca0_A_seNuHSoRy,12.0,,1979.0,young,big,unknown,air source
+FQNntPX8CT_DOQoNhTYL,1.7,201.25,2002.0,young,small,medium,air source
+K8vlnEUqAxw9oPtzGbjv,2.4,241.5,1976.0,young,small,medium,ground source
+y885nltiV9Yo9LGuDQt1,4.9,253.0,1997.0,young,medium,medium,ground source
+1_7e_iW7_X6_0Kps_JBv,5.0,271.4,1980.0,young,medium,big,air source
+EbFhjvBGP8Y,,,,unknown,unknown,unknown,unknown
+a2U75_ZzpV_6K1nDNxD_,3.9,150.65,1921.0,medium,small,small,air source
+2D6ObpAoyLQLfe6F511_,10.0,230.0,2012.0,young,big,medium,ground source
+bA4JRWvDAdY,,,,unknown,unknown,unknown,unknown
+UJ1uu_8XE3IERw7scn,7.5,330.0,1981.0,young,medium,big,air source
+CXh1sblhWYUoiHtH4PHS,4.0,,2009.0,young,small,unknown,ground source
+CBWhVEYwovsUXGzPkbn4,16.0,226.55,,unknown,big,medium,unknown
+D9ZuIAIY_E_2wGZFYEUA,4.0,218.5,1901.0,medium,small,medium,unknown
+Bk98SoJRB46SyPdfnf0k,,253.0,1974.0,medium,unknown,medium,ground source
+HinBhqpWv5INhvpBl45q,2.1,172.5,1962.0,medium,small,small,ground source
+wae3SZUD0hg0_GsxD881,2.9,207.0,1962.0,medium,small,medium,ground source
+dQQuJ8X0EvcR8bN6Xde7,2.2,184.0,1953.0,medium,small,small,air source
+7_G1FvIST56cP2k4Zb23,7.0,282.9,2014.0,young,medium,big,unknown
+z8Bt2CV_fjA3Sk4dEEqv,2.0,264.5,2008.0,young,small,medium,ground source
+JdOyYhnHnUgHY3lVBIOy,10.0,,2014.0,young,big,unknown,air source
+XC1TvaM7Vv6RXS5xnrWn,4.0,97.75,1966.0,medium,small,small,air source
+iTPIUMvXlh6YC6lvk1Sy,2.3,155.25,2005.0,young,small,small,air source
+1Eg65tFKrScQY0uTjt9p,2.5,177.1,2006.0,young,small,small,air source
+LK7isRd4XRwL7uaNT6es,6.0,103.5,1980.0,young,medium,small,air source
+vQFFQU6wp_I,,,,unknown,unknown,unknown,unknown
+iuVh_WT7MBoBMEjTTPcU,2.0,,1790.0,old,small,unknown,ground source
+pFomZm_iLOU,,,,unknown,unknown,unknown,unknown
+AfWDQNavm_cqkF1_lS,2.55,172.5,1990.0,young,small,small,ground source
+Q_R6Lqyo2zk3SqMUSR_4,4.7,184.0,1860.0,old,medium,small,air source
+9V0tYmksEpMHKPpWz8rM,2.0,118.45,2007.0,young,small,small,air source
+kojKyY5FcYULMjyF_LiK,1.3,203.55,2007.0,young,small,medium,air source
+fXDtBrFY7j2uTOwpntxy,1.3,203.55,2007.0,young,small,medium,air source
+KPU__IbC_JgjmYMju8nm,1.3,203.55,2007.0,young,small,medium,air source
+zfvIA1q18Lwannw1EVd8,5.0,294.4,1948.0,medium,medium,big,ground source
+qu3KJ4nlbR6cyCJaExaz,2.0,172.5,1958.0,medium,small,small,air source
+KwMoIqhASp6,,,,unknown,unknown,unknown,unknown
+1U2A4ehKmDo,,,,unknown,unknown,unknown,unknown
+UVduejDCO_g5JsKvCOlM,,149.5,2010.0,young,unknown,small,air source
+_o5MsM1_qYo9806ypSGF,3.8,250.7,2008.0,young,small,medium,air source
+Z2QOaQ5s48EhDmBMa_ZF,4.0,310.5,2007.0,young,small,big,air source
+sBOp5EE_xfo,,,,unknown,unknown,unknown,unknown
+tzN8exnvrDoQIVsHHX94,4.3,184.0,2003.0,young,small,small,air source
+4IvbrnS1_uM6Jk_KfqXo,2.7,227.7,2007.0,young,small,medium,ground source
+GuVpvMDbR92VrqpIcE5s,5.0,,2016.0,young,medium,unknown,ground source
+8rF9cv172wEbdqImeLK6,5.0,,2016.0,young,medium,unknown,ground source
+dP9r1U0_nW67XRHRB5UH,,212.75,2003.0,young,unknown,medium,air source
+ghggW23mizUZ8srylxaV,,277.15,2006.0,young,unknown,big,air source
+taQhlrYN0RobkuE_kCEo,,181.7,2008.0,young,unknown,small,air source
+4wA1bOagHcQdPAxGeh5e,6.0,139.15,2007.0,young,medium,small,air source
+8pJ140cDtLQYW81DNR,5.0,345.0,1995.0,young,medium,big,air source
+aCb30I8d0YwF3BHJBIYl,3.2,264.5,2004.0,young,small,medium,air source
+FzasPttEcyInIpR8V_9v,4.4,287.5,1999.0,young,medium,big,air source
+yQSU_FyKWGM,,,,unknown,unknown,unknown,unknown
+qrY4vo_wkZwGDwZWPCtx,2.7,190.9,2005.0,young,small,medium,air source
+iV6G6uH9P_cImfuCz_E9,3.5,172.5,1973.0,medium,small,small,ground source
+pvtaodOEK5YqlNj8cPxJ,6.3,184.0,1850.0,old,medium,small,air source
+LsNijhUiw8Uths0oaYXn,2.8,195.5,2004.0,young,small,medium,air source
+0K0Xq95kh0c51N0x2pB1,2.1,128.8,1978.0,young,small,small,ground source
+HJmCqsxawqUVUTEMZ1wD,7.0,,2015.0,young,medium,unknown,ground source
+YDKf_I9fu1onJDLnr_ar,4.7,147.2,1933.0,medium,medium,small,air source
+lVoqKZLcFtkMToARRPlY,2.1,299.0,2004.0,young,small,big,ground source
+0krDFEW7If2JtsKzYHGt,4.0,144.9,1979.0,young,small,small,air source
+ZvJs2hbHyYo0FFeK3bvC,6.0,207.0,1999.0,young,medium,medium,air source
+3onpLTd9uMo,,,,unknown,unknown,unknown,unknown
+LATiZZ075zUL02KwGhh6,2.0,310.5,1951.0,medium,small,big,ground source
+_y0_edAC6QIlsqzea2Xf,6.5,,,unknown,medium,unknown,unknown
+Ai53usD_DzY,,,,unknown,unknown,unknown,unknown
+y9f_N0ptB1A,,,,unknown,unknown,unknown,unknown
+aUWg3ZG2gfYN4LXDSp2V,,201.25,1820.0,old,unknown,medium,air source
+l_3UDsQAaocUIxARafsT,2.44,167.9,2007.0,young,small,small,air source
+wBpvh_YB9To,,,,unknown,unknown,unknown,unknown
+aGzkKtCChG_jGXPBTZn8,3.6,157.55,1900.0,medium,small,small,air source
+Yl0q1RTjyU2VP_12iqQi,3.5,332.35,2006.0,young,small,big,unknown
+V7rgEPp3reYW3_HNqcUk,5.0,207.0,1830.0,old,medium,medium,ground source
+2buBb1NqU_kceC1GwnMt,,207.0,2008.0,young,unknown,medium,air source
+pZLNk570lKQ9P9_4H5ei,5.0,156.4,1980.0,young,medium,small,ground source
+cnpR3tu0iCo,,,,unknown,unknown,unknown,unknown
+qwgKDboB5h_zSVoA3Vcl,5.0,235.75,2016.0,young,medium,medium,unknown
+UuXbDy_2JYQ_aornKTHC,15.0,317.4,1752.0,old,big,big,air source
+awPGX0tmvVUl1sRdPOeg,2.3,311.65,2001.0,young,small,big,ground source
+U6xSQvTB19ogZvcOXMk5,2.2,172.5,1968.0,medium,small,small,ground source
+i5jq_fER9TcF13J1WGGj,10.3,257.6,2008.0,young,big,medium,air source
+R9mxo6RsLFwOwqY7H6,5.0,207.0,1995.0,young,medium,medium,air source
+Dvdve2PNAao9nDWisN,8.0,161.0,1990.0,young,medium,small,air source
+qAn1sJDDQpAgDxfWlBk5,2.7,172.5,2000.0,young,small,small,air source
+r9bh6piRo7AiJHdEt5HP,2.3,257.6,1989.0,young,small,medium,ground source
+5L3gUWeYdjwGzDcxcj0T,3.7,261.05,2005.0,young,small,medium,air source
+54CVRqvbzwgaBy5b3F,5.7,241.5,1995.0,young,medium,medium,air source
+AUmB0gYYa5Y7n_XE_5Wd,,250.7,1963.0,medium,unknown,medium,air source
+JeqB2oex4fw7PjsZvZ,5.0,184.0,1981.0,young,medium,small,air source
+cqXu6ChT6Z6q__va05N1,,,2008.0,young,unknown,unknown,ground source
+BwSnoq5VtOkSPDKoXKNT,,224.25,2006.0,young,unknown,medium,air source
+q5vYrl0joIovKqi_lp,4.0,270.25,1996.0,young,small,big,ground source
+cZVDXH8Ro_g6ckVGJ2DZ,7.0,,1999.0,young,medium,unknown,ground source
+QDm3z5Wxs9w5lotnwpQJ,18.0,345.0,1974.0,medium,big,big,air source
+4GxCvjq4zogdebEzXsMg,7.4,138.0,1950.0,medium,medium,small,air source
+cY3LR6_htLQLZJTVUqxj,,182.85,,unknown,unknown,small,unknown
+tVbE__jt0yo_GOtM1jtV,2.6,154.1,,unknown,small,small,unknown
+hNeMETnwom6PrXGAbanK,7.1,141.45,2009.0,young,medium,small,unknown
+pTrhSlLeoQEtPe7OJJIA,2.5,80.5,,unknown,small,small,unknown
+wl6vmx0c5oUWMB1ktzkY,4.0,102.35,2004.0,young,small,small,unknown
+DV22UBXtfQYSZf_U1ILq,3.0,96.6,,unknown,small,small,unknown
+30y0dUj4wI6M4k7Zvxzd,4.2,103.5,,unknown,small,small,unknown
+z_qP6zGGEdg,,,,unknown,unknown,unknown,unknown
+AkPq6AuSFdE9xGSxBK,4.4,172.5,,unknown,medium,small,unknown
+g_gE1NiBt1kWGNfV5TN5,4.0,287.5,2003.0,young,small,big,unknown
+IiRCQBWhedsu0NXluNmn,17.07,,2009.0,young,big,unknown,unknown
+7mIw3E4WecIwfxtGEtxa,6.3,,2011.0,young,medium,unknown,unknown
+hU11OcqUWEQdVZWzYM,,205.0,,unknown,unknown,medium,ground source
+H9w_AaiM47U5ujTh9OGw,3.0,164.45,,unknown,small,small,unknown
+Hwk_LkMkCtQ06O_jkynh,3.5,172.5,2001.0,young,small,small,unknown
+xw2BQVSalKo4fra2_E,,207.0,,unknown,unknown,medium,unknown
+3jmwcwVXhZYADGC3dLgl,4.8,195.5,,unknown,medium,medium,unknown
+cDERjaEAJHccEl2M2UOu,5.0,,2004.0,young,medium,unknown,unknown
+vsGUGOIExrsc7HR6c8Xw,2.5,175.95,2005.0,young,small,small,unknown
+IW_JBJuI0k237hFz6ImW,,247.25,2009.0,young,unknown,medium,unknown
+w_Tju1MyMw6hSPBbrnIX,4.0,144.9,,unknown,small,small,unknown
+7GTCmKB0NwM351dZczqs,2.3,193.2,2002.0,young,small,medium,unknown
+aPn31vM3PeAJfAR4YC,3.2,188.6,,unknown,small,small,unknown
+rVJlC5l9n3QffHVhrv6F,7.06,348.45,,unknown,medium,big,unknown
+ZauXFRlweBoD0mwjxsq9,10.0,138.0,2005.0,young,big,small,unknown
+GOhXNtrdfRsvFWGFWCrc,3.0,235.75,,unknown,small,medium,unknown
+w_gTH59Lv9EHALzrCpjd,7.1,,,unknown,medium,unknown,unknown
+XuSvauHSrMAUEOa_L6b4,6.8,163.3,2003.0,young,medium,small,unknown
+HqUC5uYJWOI83oCbjgk1,3.0,161.0,2002.0,young,small,small,unknown
+fdUXQSv_5Y_Ntpf6skGP,2.5,165.6,2003.0,young,small,small,unknown
+AiiHXkGdGYo1lQ03TONm,3.0,174.8,2003.0,young,small,small,unknown
+juQ_jZGbD_wUkM_jKvu8,3.0,250.7,2005.0,young,small,medium,unknown
+oX9O7I_RoaQgzCXl0nkx,4.0,256.45,2005.0,young,small,medium,unknown
+WKI0KmWdFRsRM_kzlPnC,2.5,218.5,,unknown,small,medium,unknown
+Yjvtq4IIxigbaMkpmrvX,6.5,143.75,2010.0,young,medium,small,unknown
+xtkr_kxKgyw7OHHAI5w5,2.2,172.5,1815.0,old,small,small,air source
+QQXBjRbiaBkO4GqNvejw,5.4,165.6,1959.0,medium,medium,small,ground source
+WvDjlaIgXPI9uz5rqSOt,4.0,189.75,2011.0,young,small,medium,unknown
+ZQ9PT3PJBosCgcTMv3_1,4.2,326.6,,unknown,small,big,unknown
+TsY0KmRFJUIGGTHTFxDP,8.0,253.0,2013.0,young,medium,medium,unknown
+1fXkKK01JQQK6NwTiRzh,4.0,308.2,2006.0,young,small,big,unknown
+F0m4dX6ZLRkluMz26Tf5,3.0,184.0,2003.0,young,small,small,unknown
+uUyMI0WMSH2KYzMN0N_h,5.0,149.5,2004.0,young,medium,small,unknown
+wwUYwhrKaHcb8g2oHl9C,3.0,264.5,2004.0,young,small,medium,unknown
+8Zpzm048KEQJFG0IIgkj,3.6,,2004.0,young,small,unknown,unknown
+_yZIyt8XeCkzn0eVzozF,5.0,305.9,2007.0,young,medium,big,unknown
+LmxiT774rNg,,,,unknown,unknown,unknown,unknown
+yD_p2kfQopkJcLVZHAk4,5.5,87.4,1929.0,medium,medium,small,air source
+weBYaGcddjsVvNPPtU69,3.4,247.25,2005.0,young,small,medium,air source
+t7Y1lVqftJE,,,,unknown,unknown,unknown,unknown
+ZU50RsGDzwkuM68BpPtJ,1.5,109.25,2008.0,young,small,small,ground source
+oyCKSfs8QGc44q5bSG79,3.7,230.0,1987.0,young,small,medium,ground source
+AWjEBg5Y_JIVANSt4FvX,4.2,207.0,1980.0,young,small,medium,air source
+L8Suf1ioLp6N6h_JA0,5.5,161.0,1973.0,medium,medium,small,ground source
+N7cphKtKpH61D_HX7p2n,6.9,230.0,1967.0,medium,medium,medium,ground source
+YpT_tMNBdNwonxSELns1,2.8,212.75,2002.0,young,small,medium,air source
+1GRQAenzuY_SQSPfz10q,4.8,,1970.0,medium,medium,unknown,ground source
+k_0GZqrSRLg5_NNQxJ1y,,333.5,2010.0,young,unknown,big,ground source
+rHdjAA2tym_1X4AwWBN_,2.2,,2016.0,young,small,unknown,ground source
+pQJzgmeE8M_otyJjpj1k,3.75,92.0,1955.0,medium,small,small,air source
+n5sDjFS5uJknSODJ5cpk,1.53,132.25,1952.0,medium,small,small,ground source
+zad9iG2Rm0E,,,,unknown,unknown,unknown,unknown
+2fP6YXUC1j6yRpfZaPXr,,138.0,2005.0,young,unknown,small,unknown
+ufOqtLjVH_IcKn9_LURQ,,215.05,2005.0,young,unknown,medium,unknown
+p6fmVHw_4A_XTA_C5q0t,,207.0,2005.0,young,unknown,medium,unknown
+KU47cYuiMHEdWSPQ4kg8,,135.7,2007.0,young,unknown,small,unknown
+Ezpr5Ivs9Hwu3XQnsFfp,6.5,253.0,2010.0,young,medium,medium,unknown
+Phujplm_c46w9ND1B_HM,,253.0,2010.0,young,unknown,medium,unknown
+hr0VS6HHca_pPawpZjen,2.3,193.2,1961.0,medium,small,medium,air source
+IjkYS_5SuK21IcuWgOYz,3.2,184.0,,unknown,small,small,unknown
+u9GrNa_wOFobgDDb00,5.0,230.0,1995.0,young,medium,medium,air source
+KYzRzfwZwUQQONfWca,4.0,247.25,1995.0,young,small,medium,ground source
+_3nRlBBH8pE,,,,unknown,unknown,unknown,unknown
+12_FdunFrlQgF_KDFvoz,3.0,,2002.0,young,small,unknown,air source
+_kTOtzOReAIwJ6g8BXKU,2.2,295.55,2008.0,young,small,big,ground source
+SN0K6At6QGA,,,,unknown,unknown,unknown,unknown
+cV3Skv58LsAP5SW9G0,,115.0,,unknown,unknown,small,unknown
+X8t9ff1_H__BKpj1YBjb,,376.05,2016.0,young,unknown,big,unknown
+4Rqmt7aOUwU,,,,unknown,unknown,unknown,unknown
+wHbcGZgi6KA3h1DoREgF,,391.0,1944.0,medium,unknown,big,ground source
+DC9aHPCnBOkP_dqr92_q,,230.0,,unknown,unknown,medium,unknown
+hjwiqgBYrEsuKuRBQgg2,,269.1,2002.0,young,unknown,big,unknown
+xdVSTN_AqCEzvHMrwENU,3.0,248.4,2002.0,young,small,medium,unknown
+Ja8tardxPlYJXkTdlokN,2.0,184.0,2006.0,young,small,small,unknown
+TN4C1Rvoe_U,,,,unknown,unknown,unknown,unknown
+Y5k0WcN2qCc,,,,unknown,unknown,unknown,unknown
+4FcK9eEXw0_5biQZU5S7,3.5,287.5,1999.0,young,small,big,air source
+dwkpN23n3SA9sn9Td6YX,2.8,172.5,2004.0,young,small,small,ground source
+zvNJQfjyMrMydMVP2gld,3.05,207.0,1984.0,young,small,medium,ground source
+tmQXVYSYGcsf81nkWmkR,2.2,287.5,2009.0,young,small,big,ground source
+M_RkbnVhRxchZAiVXXP5,4.2,172.5,1976.0,young,small,small,air source
+88HeRYKIlIkV7B2im3gK,4.0,251.0,,unknown,small,medium,unknown
+tQtsBxI1VOo,,,,unknown,unknown,unknown,unknown
+lWBGAy9TYBY,,,,unknown,unknown,unknown,unknown
+Td71WmFkoHQ,,,,unknown,unknown,unknown,unknown
+zJzWukVeDwE,,,,unknown,unknown,unknown,unknown
+mNj04s1D2ksrCL1y57,3.13,149.5,,unknown,small,small,unknown
+OY7TuRt4i7wB3NylOlxL,2.6,235.75,2004.0,young,small,medium,unknown
+4TOCCfx7rNYXQDDUa7WG,3.0,204.7,2004.0,young,small,medium,unknown
+F2hja_e_t9owL_XzFBof,3.0,195.5,2005.0,young,small,medium,unknown
+NsxT3dmQ6eIFX1RyztyC,3.5,223.1,2005.0,young,small,medium,unknown
+2rNVWnHffFozhl5QbQG2,6.1,310.5,1830.0,old,medium,big,ground source
+BKMC0qyZiXEs7gGTIZlN,3.0,230.0,2010.0,young,small,medium,ground source
+xJ_JENNrr7MsfaA6WTpg,8.71,140.3,1898.0,medium,medium,small,air source
+rbF5FjRamW_,,,,unknown,unknown,unknown,unknown
+Zk_VFwMvsWUH8uE_Es,8.0,143.75,,unknown,medium,small,unknown
+UtyV9bVvuLgFEiFo_fag,5.0,325.45,2009.0,young,medium,big,air source
+8xJrKNe_0FU,,,,unknown,unknown,unknown,unknown
+IjVQrIJA2mo,,,,unknown,unknown,unknown,unknown
+N3GBb6MjtZgU7_k_mWeh,4.0,230.0,2010.0,young,small,medium,unknown
+arSAFo__I3sQz2tCgJXB,4.34,169.05,2010.0,young,small,small,ground source
+254RTcwA1DgXObb_s0pj,3.6,310.5,1998.0,young,small,big,air source
+gkN6zTuXkyQLcRvZYBhZ,2.3,253.0,2000.0,young,small,medium,ground source
+BRjhgA4kHak,,,,unknown,unknown,unknown,unknown
+lJrzpfY3VucI9xUX04bg,6.8,317.4,2013.0,young,medium,big,air source
+Bk0Cb4__Cn26Uepa8D,5.0,163.3,,unknown,medium,small,unknown
+oXSvR1qqZCgQXs7Lq96s,4.0,261.05,2007.0,young,small,medium,unknown
+5ddKPRWyZ6YPdKOULM6_,2.9,225.4,2000.0,young,small,medium,ground source
+KfCFcYCs63IBoU9xfJh1,3.6,212.75,2005.0,young,small,medium,ground source
+9_nPV0jlhPMLpdXR1igk,4.9,309.35,2006.0,young,medium,big,air source
+TDlgz69VYeQ,,,,unknown,unknown,unknown,unknown
+97uwIjhFTHcAu5PET1Vu,4.1,195.5,,unknown,small,medium,unknown
+_CIqTwgi1tggzmgTB6mE,3.5,,,unknown,small,unknown,unknown
+2iVFlyF6GW2BhAMft1FJ,15.0,138.0,2010.0,young,big,small,unknown
+gKfu8PubL4kzhGo4Fysx,2.2,108.1,2009.0,young,small,small,unknown
+GPff7hBGtzYgK9vPHfHj,,174.8,2009.0,young,unknown,small,unknown
+5g0sbpcPXEkbCVeD3mqT,7.5,132.25,,unknown,medium,small,unknown
+N4KNlpW0foEMSAoduJjl,,224.25,2007.0,young,unknown,medium,air source
+DmnFEt7PEKcL6_Hh_Yap,,224.25,2007.0,young,unknown,medium,air source
+pM6adHWJSCgBnUcbkNFI,,224.25,2006.0,young,unknown,medium,air source
+ra7_0E35sr_kkCtiGeQR,,224.25,2006.0,young,unknown,medium,air source
+Y3xSAMkTF0M7dDkQJm8mB,3.0,92.0,1780.0,old,small,small,air source
+mYxe_SDAxtQW_a8AYq4Wc,,117.3,1780.0,old,unknown,small,air source
+dEP1paisCOY4IkQQmpbIN,3.0,236.9,,unknown,small,medium,unknown
+a3GVXEkUhFIl,,,,unknown,unknown,unknown,unknown
+4o3AsNPsd_gHLM23u8r0N,,272.55,2002.0,young,unknown,big,unknown
+pWNxvvgglaUYkMFC8thm2,,189.75,2000.0,young,unknown,medium,air source
+sAmtv_79MrE8o8nd8mBLV,4.7,278.3,,unknown,medium,big,unknown
+l3Fd_x4aA3Ud4h15xiU2E,,264.5,,unknown,unknown,medium,unknown
+6tYGm4s4K_kmQnqk5uuLu,,200.1,,unknown,unknown,medium,unknown
+t6WPDvy_pOwcgxjg03eZz,3.0,,,unknown,small,unknown,unknown
+rhUT6JSy2E6a7Z2qbKMo6,,152.95,2003.0,young,unknown,small,unknown
+9GUpfV9uDXQj_QO4WTKWb,4.0,184.0,2005.0,young,small,small,unknown
+TIXL6cB8_RAFYLiYBKDbx,4.0,339.25,2003.0,young,small,big,unknown
+y_o7ZzNPqv6Z84zSIhF,5.0,195.5,,unknown,medium,medium,unknown
+h0HQ6eg8VW2IK47tkOo9B,3.0,115.0,,unknown,small,small,unknown
+fqEr8ZMAuUkTozPPV_Qqn,7.3,,2000.0,young,medium,unknown,ground source
+lMwvY2icxkshet6HWaEVg,2.3,,,unknown,small,unknown,unknown
+PZbK4efPBN2OrC0tdpmy2,2.3,143.75,1997.0,young,small,small,ground source
+vMW5DZXtSHUe45woJWJoV,3.0,,2000.0,young,small,unknown,air source
+ZGi8UWMqSy_iJ8lZ7vKJ_,3.0,,2000.0,young,small,unknown,air source
+bc7i8nTbM1_9MHagmYXdY,2.7,,,unknown,small,unknown,unknown
+fv9IxhHioiYKHCTSEjv8_,2.3,,1959.0,medium,small,unknown,air source
+12xtvkQLCk6NOIqyucGzb,6.1,264.5,1997.0,young,medium,medium,air source
+JrgqCh9ztYsJ_brO6TM8j,,126.5,1985.0,young,unknown,small,air source
+8SsB6crSrEEl,,,,unknown,unknown,unknown,unknown
+pxCNEPB1v9El,,,,unknown,unknown,unknown,unknown
+7pJsiAsuMMAPX5FjHhU1n,4.8,149.5,1961.0,medium,medium,small,air source
+oEp5xeVyRxYU_CTPeT4Jq,7.4,195.5,,unknown,medium,medium,unknown
+yyeGshVUdyomwXT_0_WUW,3.5,156.4,1999.0,young,small,small,air source
+lxJ3L1UfNu2gRcxS4yteh,1.58,274.85,2006.0,young,small,big,ground source
+pmm6QCLL9lUjfkOsNPyC8,3.0,207.0,1998.0,young,small,medium,air source
+6yZAWKcywdIMuA4_IqBBr,1.6,128.8,1960.0,medium,small,small,ground source
+kWY0N7fq39UHq6_q3YjDp,4.2,,1999.0,young,small,unknown,ground source
+9rRiDAyQPHU9PlHyJ_WSQ,3.8,149.5,2008.0,young,small,small,air source
+52BW54S_vsYDUH61dglQ5,1.7,243.8,2008.0,young,small,medium,air source
+K8XLrv6qdPIARlSLSTt,5.0,195.5,1981.0,young,medium,medium,air source
+Wfxt_eG763IVq_Z77UbJC,3.0,230.0,1996.0,young,small,medium,ground source
+rkDGyy8ll3Ai3uxynb28h,1.9,241.5,1999.0,young,small,medium,ground source
+twTKJQVZDTMZdD11fnJwk,3.6,170.2,1876.0,old,small,small,air source
+MAHWTk3kP0YJlNUiZNRVz,,,1997.0,young,unknown,unknown,air source
+gIfrG03daeA4yriujnLzC,4.0,242.65,2003.0,young,small,medium,unknown
+f16MpI_TAJsHM6bhs1_sd,12.2,264.5,2006.0,young,big,medium,ground source
+nEOBbWoFPj6tJoS0AuCOw,2.0,117.3,2007.0,young,small,small,air source
+vl0HC3lotcUtme89UBZ6K,2.0,117.3,2007.0,young,small,small,air source
+I_lZYarsJuwXptPeZf69x,2.0,117.3,2007.0,young,small,small,air source
+SQXvg0wsGwU8QtwpsJF2H,5.0,241.5,2001.0,young,medium,medium,air source
+X2MZeXcvMKYUsbAnvIeO6,1.3,203.55,2007.0,young,small,medium,air source
+Kr2DryfiEuoDU4rGqVjns,,195.5,2008.0,young,unknown,medium,air source
+G4zP8hiIKJwDnhTXIyKoo,,195.5,2008.0,young,unknown,medium,air source
+ZaTIZ0bIqhMl,,,,unknown,unknown,unknown,unknown
+BzUaYf5BNNQ1i7QO_sZBH,,302.45,2010.0,young,unknown,big,unknown
+5C_LEIMcQncRUOnlezcgw,1.7,253.0,1888.0,medium,small,medium,ground source
+A0aBOVafK0gmzUpsBJy6a,,195.5,1931.0,medium,unknown,medium,air source
+M78x6MnH8eEb9RkQ3uQ2h,6.0,368.0,2004.0,young,medium,big,unknown
+lO7J88KpR5ksZRc6Qjps7,5.0,,,unknown,medium,unknown,unknown
+Hu0qmt7qwoYz3NCeA17j4,5.0,,,unknown,medium,unknown,unknown
+8SL15wTcaX6Ovg_3Ngcdg,3.0,240.35,2005.0,young,small,medium,unknown
+K3oZPzRhNRYl,,,,unknown,unknown,unknown,unknown
+kiZpLKJsUT2nIb09eZE0l,3.0,267.95,2007.0,young,small,medium,unknown
+sd6hHomDdmc9BEiU5jlfz,,158.7,1955.0,medium,unknown,small,air source
+OV0OZSEpOUUQN6OzXS3ua,4.1,345.0,1998.0,young,small,big,air source
+E5RSfTqXn1Qgzcgo2uM,5.0,241.5,1929.0,medium,medium,medium,air source
+XCTAHnRK9Bk9NQR31SV4r,,120.75,1930.0,medium,unknown,small,air source
+dfksSbmbKscl,,,,unknown,unknown,unknown,unknown
+baTF_VC8hEcE1Ski_ScMY,,227.7,2003.0,young,unknown,medium,air source
+jvG8uP_kTrc0o4Fzmpr2q,3.88,197.8,1872.0,old,small,medium,air source
+5HoTZn2CZnoldWDnovute,2.0,202.4,2004.0,young,small,medium,ground source
+bB_honQjugQL8OvfRKyGY,,142.6,1774.0,old,unknown,small,air source
+dkYg1JIUIcUl,,,,unknown,unknown,unknown,unknown
+LnTJBHdXllcl,,,,unknown,unknown,unknown,unknown
+2ExFLPmiUUkl,,,,unknown,unknown,unknown,unknown
+nR_l2v1xWFYl,,,,unknown,unknown,unknown,unknown
+AJDPjOjNGEoDnsITeBwxj,4.8,165.6,2010.0,young,medium,small,air source
+ApahgADW6VYl,,,,unknown,unknown,unknown,unknown
+_SA7qy_X5roDUXXpX_gH8,,276.0,1990.0,young,unknown,big,air source
+M1_J4tQ4HGE3mnlk5zV24,2.7,218.5,1998.0,young,small,medium,air source
+gymVuKbh486l,,,,unknown,unknown,unknown,unknown
+5Y7623WMdxUl,,,,unknown,unknown,unknown,unknown
+juVDdD7yWQYl,,,,unknown,unknown,unknown,unknown
+hV2M8SEtbdIl,,,,unknown,unknown,unknown,unknown
+YKAz6OGud_IxutctBkQrR,,287.5,1999.0,young,unknown,big,ground source
+9b5AI2frwbQl,,,,unknown,unknown,unknown,unknown
+DDwyCFvEbQMW5nXlGg_87,,207.0,1936.0,medium,unknown,medium,air source
+a9Xr0PIvkxQ5TQOVNzPDl,,212.75,1999.0,young,unknown,medium,air source
+x5YS_q2LsD6l,,,,unknown,unknown,unknown,unknown
+Fcp2jMUYjvIshwVMFrwGz,6.0,,1999.0,young,medium,unknown,air source
+vdoJqT1NjHE8vcGsNSfME,3.0,368.0,2004.0,young,small,big,ground source
+f74i4Mc8cBcbpAiEh0iPo,2.2,190.9,1982.0,young,small,medium,air source
+M__L4gPZhEYzmGm9UxAaf,5.1,205.0,2002.0,young,medium,medium,air source
+09WRxJL9k7ol,,,,unknown,unknown,unknown,unknown
+GzDFAHBvKAoA5UJ_xSGNM,,209.3,2004.0,young,unknown,medium,air source
+TTVA7Bon1CUEFedc0RhFl,9.7,,1983.0,young,big,unknown,air source
+oaQkRwGpBGgm5tgHp4Et4,5.9,195.5,1984.0,young,medium,medium,ground source
+q3lPPP_A0tYygSGa5jcYi,1.3,,2003.0,young,small,unknown,ground source
+sw5tGZzWNmgJ0I9Ea3q4_,1.3,,2003.0,young,small,unknown,ground source
+a_khTSw3UXAoVFXtYUH7d,1.3,,2003.0,young,small,unknown,ground source
+5FxVN6_TQAw5gl8X5Z6P5,1.3,,2003.0,young,small,unknown,ground source
+KXnqBEHgNGYctTE5uhYff,2.68,247.25,2007.0,young,small,medium,ground source
+7EEa9h_d8JsyshwAqItZT,,254.15,2008.0,young,unknown,medium,ground source
+ZSMq4vSc50UBAVEqxN2zM,4.0,138.0,2000.0,young,small,small,air source
+UffIMEcu_ZU4_T81uofZe,3.0,172.5,2003.0,young,small,small,ground source
+hcKxx7T0oKkW9t_o8VjC7,1.8,149.5,1976.0,young,small,small,ground source
+hxrS2yDcpMUYINNcrNjSp,5.0,379.5,2008.0,young,medium,big,ground source
+i_nvTavXaF66xyOHzl3fi,,172.5,1997.0,young,unknown,small,air source
+J26_0PRo7ectG2zGNPmxd,3.3,149.5,2002.0,young,small,small,ground source
+mbXx6p7X2eIiDa_i5VCnd,,149.5,1998.0,young,unknown,small,air source
+XzsW5BgavJMl,,,,unknown,unknown,unknown,unknown
+foeiP7UeoCgl,,,,unknown,unknown,unknown,unknown
+OiuO7B62EHIl,,,,unknown,unknown,unknown,unknown
+_vlvz9B8ADQl,,,,unknown,unknown,unknown,unknown
+UJmKNEl_4PYl,,,,unknown,unknown,unknown,unknown
+olj8BUSPXcMl,,,,unknown,unknown,unknown,unknown
+uT91359RIzYl,,,,unknown,unknown,unknown,unknown
+DVi1CqiAMNYl,,,,unknown,unknown,unknown,unknown
+PZS7s1A3CDIl,,,,unknown,unknown,unknown,unknown
+x3xzPzXxquk8Ii9iwmb,3.25,264.5,1994.0,young,small,medium,ground source
+_DuqI9CxPqAl,,,,unknown,unknown,unknown,unknown
+tJRCdzsn9lsl,,,,unknown,unknown,unknown,unknown
+3iaSDVBp2gU75TxA7E6vq,4.6,149.5,1997.0,young,medium,small,air source
+nt1tSR50BnA8DMq621upX,3.26,143.75,1919.0,medium,small,small,air source
+2xoiYC39nH6l,,,,unknown,unknown,unknown,unknown
+wStBEwUBulQl,,,,unknown,unknown,unknown,unknown
+AADLBSmwdpol,,,,unknown,unknown,unknown,unknown
+rumQENjwqoUzcjUiOKc3n,,149.5,1928.0,medium,unknown,small,air source
+FhvdJyt_w8AvU0ewB1XjX,,269.1,2011.0,young,unknown,big,unknown
+7mByvUldJHArPjfxmmvjl,3.6,230.0,2007.0,young,small,medium,unknown
+REnEUdFOMYMl,,,,unknown,unknown,unknown,unknown
+8iS2OEQiZXk9A7N2hE4Jc,3.26,143.75,1920.0,medium,small,small,air source
+wQJvVHax03gNEywlBRUyB,3.26,143.75,1919.0,medium,small,small,air source
+Bcxs4Do_8PIlzRZNbzRXP,3.26,143.75,1919.0,medium,small,small,air source
+d4nO_Qt8ofQAvu7lDnOvX,3.26,143.75,1919.0,medium,small,small,air source
+5ZK8nc4JR5E1KqG1Yyezv,,218.5,,unknown,unknown,medium,unknown
+yCWqLA9W0cUngkCxh22w8,6.6,156.4,,unknown,medium,small,air source
+9l95u7n0ckE4HexxE85Ay,2.4,207.0,1820.0,old,small,medium,air source
+agJSpSPO3Go7reu8H2v5N,1.8,323.15,2008.0,young,small,big,ground source
+W7Mf15r1I7s4JlNGauper,2.3,184.0,1999.0,young,small,small,air source
+Vw0pHQUQSz6NV8ud5_DSZ,3.3,184.0,2001.0,young,small,small,air source
+8KbPGCIL5IwPAh5VRI_xr,13.0,181.7,1959.0,medium,big,small,air source
+trx3WAO3HT2JGoO_HL01p,3.0,127.65,1947.0,medium,small,small,ground source
+VuSHsIADEMo7eRFKDJ04p,3.7,138.0,1842.0,old,small,small,ground source
+CB4ibAdf5pgBhyDaWOF,5.0,217.35,1996.0,young,medium,medium,air source
+vHhzGQ5f2PcOnMf2htSTs,,184.0,1732.0,old,unknown,small,air source
+17Db1FCHXtgxHfSI5UiuM,3.0,253.0,1998.0,young,small,medium,ground source
+Kw6wsSjRBcoexCQB_ekJn,2.52,,1964.0,medium,small,unknown,air source
+448R9ihdEMIDeMdUfKF0s,3.0,232.3,2009.0,young,small,medium,unknown
+eTZxO5ItdSMF38uRhOa,4.6,224.25,1860.0,old,medium,medium,air source
+fSq2weGkcI_ZHj3Qrz4gf,3.0,138.0,2000.0,young,small,small,ground source
+SmyuZFhw1j62j9rZ5e5n0,3.8,226.55,2007.0,young,small,medium,air source
+al31WkjEO9U5u8OQqI1h3,2.6,151.8,2005.0,young,small,small,air source
+TFf8GgwuqJsTT11Mbp1ha,8.0,253.0,1982.0,young,medium,medium,ground source
+0wpLilUxKZ2CH9zpikJaP,3.2,204.7,1823.0,old,small,medium,air source
+0_CA_s_UNagHYgXtHcQj_,,166.75,2007.0,young,unknown,small,air source
+0eq9trggezQhL6u5EcXZ_,,138.0,1848.0,old,unknown,small,ground source
+Ui9Rc7UMQgQ4dq9ScNTil,6.0,143.75,1919.0,medium,medium,small,air source
+4HPrDgb4kg2p_kuFZ74vK,,227.7,2000.0,young,unknown,medium,ground source
+U290Kkqt1LI7Ay9XwEdqX,,,1981.0,young,unknown,unknown,ground source
+Un7TBNUCtykkZHh22we3c,,172.5,1977.0,young,unknown,small,ground source
+T2FCVEuEeHkjCwUldlFxv,,256.45,2004.0,young,unknown,medium,ground source
+5KitPL_VJt6r9zYtaaU_y,6.8,,2000.0,young,medium,unknown,air source
+uICWnvaWLsISNdGeo2Vtm,4.0,172.5,2006.0,young,small,small,unknown
+ZbnjhQI6onUbCWjK5V_Jp,,147.2,,unknown,unknown,small,unknown
+9OyZDSADt4wYRDSk0sO5x,,155.25,2007.0,young,unknown,small,unknown
+w9aaBA9zHNA_TAv2pbWO_,8.0,166.75,2007.0,young,medium,small,air source
+mhGU_TAYqj6k8cDUk0xES,3.0,139.15,1976.0,young,small,small,ground source
+vefqyV06_m68x6wlL1k6Y,4.0,269.1,,unknown,small,big,unknown
+4ogKd_0_w0oCr5QXozlun,3.9,,2007.0,young,small,unknown,ground source
+XrMFmiWjlmAq9h7xMrnxU,5.7,184.0,1983.0,young,medium,small,air source
+gDFoKA0hRCUvIamtKjQD9,2.0,227.7,2003.0,young,small,medium,ground source
+Ht_1GXOx41gh4errsaO_Q,2.36,,2002.0,young,small,unknown,air source
+X6QFyw6QBPkojp9L_Eoju,,215.05,2005.0,young,unknown,medium,ground source
+CGf8CFDa5Zw4zZvG7ZzPT,4.0,218.5,2002.0,young,small,medium,unknown
+_67WPhIopaUv1_q22Izp1,3.3,212.75,2005.0,young,small,medium,ground source
+vuX8fU4FRGkEimvYOgu2M,,281.75,2003.0,young,unknown,big,air source
+SNSTFIIX9xgAWh8CkT0iN,6.5,211.6,2004.0,young,medium,medium,air source
+_VySGJxmw0ACWu8KQRV,6.0,201.25,1995.0,young,medium,medium,air source
+Lpf09Yyk42UTF65q_FnTj,11.1,345.0,2010.0,young,big,big,unknown
+hYDDLRzwdzABcTeVkho7_,3.8,282.9,2000.0,young,small,big,air source
+CJCOhidiEschj8vrxr1,6.0,74.75,1989.0,young,medium,small,air source
+I4_xRUkXqUYhz6a6C8OG7,,299.0,2008.0,young,unknown,big,air source
+72QBN9weSA_lgc7xJAlPp,,295.55,2008.0,young,unknown,big,air source
+iy5hfE3mKigiAN9TqRF5e,3.8,234.6,1972.0,medium,small,medium,air source
+qHxAgxwWI4A9qJl0IXDac,3.1,253.0,1998.0,young,small,medium,air source
+7__t2fxnXssf6BEODcDBQ,2.7,253.0,2001.0,young,small,medium,ground source
+Pwi_MDxDh2gVIPfk3C0tq,4.8,322.0,1999.0,young,medium,big,air source
+8Lui9SbRmys_FlDoS5myD,,207.0,2010.0,young,unknown,medium,air source
+qWB83urnGm65AT_38PhO_,2.3,159.85,1999.0,young,small,small,air source
+uN6q4_seuyQoFdhZhvAfO,4.5,138.0,1974.0,medium,medium,small,air source
+bhwFPKhoOngRQCstTKmsu,2.54,184.0,1989.0,young,small,small,ground source
+7O0BxdohRTELPJTjroxqZ,2.0,,1999.0,young,small,unknown,ground source
+I6L5tHmQYGIE7dFo6a9Sk,4.0,,2000.0,young,small,unknown,air source
+ZjzckSbZJ8EzrhEYyZxnI,3.0,238.05,2011.0,young,small,medium,unknown
+FGbXCvFR_zUr6PVnSeAEO,6.0,219.65,2015.0,young,medium,medium,unknown
+g8yZLRiuKzkRJpoebRPgR,2.9,218.5,2009.0,young,small,medium,air source
+tcsdHEDHnFsqoxuYnur8r,1.9,279.45,2009.0,young,small,big,ground source
+KUWOCJinuRUjMR5eMRlmE,1.9,264.5,2009.0,young,small,medium,ground source
+TmYGXhvpiFMNjvsk78r0a,2.0,212.75,2011.0,young,small,medium,unknown
+IM0BemYyv8QgpOhN3tKn0,3.4,143.75,1958.0,medium,small,small,air source
+368PJ4DYLiYwfyV5iXBW3,,127.65,2003.0,young,unknown,small,air source
+RfHygwsGmOgtU098drQ_N,,115.0,1956.0,medium,unknown,small,air source
+YRMlpDoDu6s9O6VreBDHA,11.0,172.5,1986.0,young,big,small,air source
+D_06ecKydgok0halGqh1B,3.8,205.85,2010.0,young,small,medium,air source
+h_E3PG2U5__LCtjnIo6c8,4.0,270.25,2005.0,young,small,big,ground source
+MvjXRlysU5AJMKlePse_e,3.0,164.45,2005.0,young,small,small,ground source
+iTRgSkuljU_xsnGUvTsy5,4.8,155.25,1974.0,medium,medium,small,ground source
+vyeKeifMUlAqt98A_08My,4.0,218.5,2000.0,young,small,medium,air source
+koinTnwurmkUONakHaT3O,3.0,187.45,2000.0,young,small,small,ground source
+w5bcSyl4IhQ_xVmSbFxu1,3.0,232.3,2002.0,young,small,medium,ground source
+k6bs1AcU5MsEnH45Pjzvr,5.6,192.05,2005.0,young,medium,medium,air source
+nStU9TJmZNMGc8pdH954L,2.8,230.0,1999.0,young,small,medium,air source
+dQ3m3oP8djok_EGKVHndt,,147.2,1977.0,young,unknown,small,ground source
+gMZvPVc214YW4R7mCBeED,1.9,264.5,2009.0,young,small,medium,ground source
+VW1WSlN2buMUPkXnG_Xlz,1.9,264.5,2009.0,young,small,medium,ground source
+uvuJa94fXf2sD1imGlqer,1.9,264.5,2009.0,young,small,medium,ground source
+jCoMiXqEN76o_2_18PDLL,,184.0,2002.0,young,unknown,small,unknown
+xz_TaR33WVIQwCcCdEMwZ,,139.15,2008.0,young,unknown,small,unknown
+3UBzMSfPoPQM5ySB_VRbc,,155.25,2005.0,young,unknown,small,unknown
+uPN_hwo_tN68oiM5IBHqv,,155.25,2006.0,young,unknown,small,unknown
+GZ_AfQ4uQwQsJRfNUh70Y,,155.25,2006.0,young,unknown,small,unknown
+wJajSZJErDADKtfz0iigh,2.3,241.5,1999.0,young,small,medium,air source
+iuN4g8RV26AjYMbBee3cg,9.0,186.3,2010.0,young,medium,small,unknown
+70c10EWI5_ALQVyK4HLEN,,144.9,2006.0,young,unknown,small,air source
+SIzmymjb68kpq7Rk_Ndyd,,144.9,2006.0,young,unknown,small,air source
+L7jztQWZuvoPxbqdq9AU5,1.2,148.35,2004.0,young,small,small,air source
+EbdetZHGY5QpST9LIH_dd,,244.95,1923.0,medium,unknown,medium,ground source
+dr9l31BB2GMIbByheLKAa,2.0,278.3,2008.0,young,small,big,air source
+onyVWgZ74_2EyTP1Iu7vC,2.2,,2009.0,young,small,unknown,ground source
+h4UYubHH2EYm65LvEOTzv,2.2,310.5,2006.0,young,small,big,ground source
+Tt96xbsD2EAvIdMdv8KPK,4.7,154.1,2010.0,young,medium,small,ground source
+Qp8FU1Q0vpEacsvEL_iTK,3.1,,1979.0,young,small,unknown,ground source
+pPVMkn5XIZQSoZOGg81tP,3.0,80.5,1778.0,old,small,small,ground source
+7qxuMPqBsoYnxOWbp9J1_,2.7,239.2,2008.0,young,small,medium,air source
+aH6gzv_lvwAnFkptGKD,11.7,220.8,1994.0,young,big,medium,ground source
+xyEec6MAOtsnGGHJmUOgc,1.8,338.1,2008.0,young,small,big,ground source
+kx7JDeN8DfkAJWxbz_o7b,,357.65,2001.0,young,unknown,big,air source
+Rs4VlNg5iM_b03AkbAKRe,,207.0,1982.0,young,unknown,medium,air source
+gmVLQIY8kK_f4cd7e4N,14.0,178.25,1960.0,medium,big,small,ground source
+ZZMQczZsUEcDx_42QJuWX,4.0,215.05,2004.0,young,small,medium,unknown
+mUOkC15vCpc7_hZUY2zO0,3.0,195.5,,unknown,small,medium,unknown
+kKh7_dxfbEwasmF6VvKPw,6.0,184.0,,unknown,medium,small,unknown
+azSF0glVfpYArmaIKpp_O,2.5,130.0,1943.0,medium,small,small,air source
+sOoVqe0WyScDwWR2hZoyc,1.57,138.0,2010.0,young,small,small,ground source
+Cz5s_bYcpGga6Ad4_w54V,1.57,241.5,2010.0,young,small,medium,ground source
+4ppHxXcJvPoc6P4is11vw,,212.75,,unknown,unknown,medium,unknown
+GSyUXwNMWAQoFJwpTrf_J,3.2,253.0,,unknown,small,medium,unknown
+G_ZB_qcTKEsxor_rmnbLO,1.71,156.4,,unknown,small,small,unknown
+XQg1tIF7l5wta161_Nk3M,2.1,333.5,2008.0,young,small,big,air source
+18YDF5_Xzb2Q5C0w11Y1q,4.95,264.5,2008.0,young,medium,medium,air source
+Adw1Nzea_1cVNvXtQKcqv,2.8,128.8,1972.0,medium,small,small,air source
+XET9jHftEdUjr2mvLmVUQ,1.9,279.45,2009.0,young,small,big,ground source
+ENKZ_TcXOh6l95ojiVwSU,,279.45,2009.0,young,unknown,big,ground source
+tgca7tRAcBUHM7wUSuiQW,,276.0,2009.0,young,unknown,big,unknown
+7dkvEhA_sWgr88sEZJc0P,,241.5,2013.0,young,unknown,medium,unknown
+inpNgcvAguYTGSelaD7iW,3.75,207.0,2005.0,young,small,medium,air source
+hwXCJ1bSwvoFwSJV7xYI8,5.0,345.0,1997.0,young,medium,big,air source
+6yQr2HsiclksaChNVcei0,,207.0,2011.0,young,unknown,medium,air source
+x_1a__K_Gao9apIN_xmfz,,207.0,2011.0,young,unknown,medium,air source
+cEBYmcaZ1msfgdtdtmOo7,4.5,,1929.0,medium,medium,unknown,ground source
+ocH_h_tQOxoEdQJzmGNt8,,163.3,1967.0,medium,unknown,small,air source
+x8Bqqwz_WIA4u1Dvi26n_,2.3,258.75,2005.0,young,small,medium,ground source
+3lOhJprEMqoXS2CklTlUM,2.5,230.0,1951.0,medium,small,medium,air source
+mliXe2KNaNkmKZMrrjX7f,3.7,287.5,1998.0,young,small,big,air source
+Bu4uJ_ayRTUAR_Nx__eoZ,,276.0,1990.0,young,unknown,big,air source
+TWE71LZgQRYEg8TQwcONv,,279.45,2009.0,young,unknown,big,ground source
